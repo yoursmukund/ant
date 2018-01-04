@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.recharts-cartesian-axis-tick-line{
+    stroke-opacity: 0;
+}
+
+
+.ant-card-body{
+    padding: 0px;
+    padding-left: 20px;
+}
